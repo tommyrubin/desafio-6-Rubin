@@ -1,0 +1,24 @@
+.color-header {
+  background-color: #1f2732;
+  color: white;
+}
+
+.color-nav {
+  background-color: #00b941;
+}
+
+.color-carousel {
+  background-color: #1f2732;
+}
+
+/* Footer */
+.footer {
+  background-color: #1f2732;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
